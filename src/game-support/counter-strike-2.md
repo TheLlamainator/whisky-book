@@ -8,3 +8,5 @@
 
 > [!WARNING]
 > `When you install it and click open it will try to open and then close.`
+
+{{#template ../templates/steam.md id=730}}
